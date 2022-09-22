@@ -1,0 +1,15 @@
+{
+  "name": "githubworkshop",
+  "version": "1.0.0",
+  "description": "git workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirsten Markley",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "lite-server": "^2.6.1"
+  }
+}
